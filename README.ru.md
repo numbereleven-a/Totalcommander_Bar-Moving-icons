@@ -6,6 +6,8 @@
 в панели кнопок (button bar) Total Commander.
 Для **Total Commander x64** в Windows.
 
+![Перемещение кнопок в Total Commander](docs/images/button-movement.gif)
+
 ## Установка
 
 1. Скачайте `TcBarMove-1.0.0-x64.zip` из [Releases](https://github.com/numbereleven-a/Totalcommander_Bar-Moving-icons/releases/latest).

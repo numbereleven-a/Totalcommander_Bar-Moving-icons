@@ -5,6 +5,8 @@
 Quickly and easily rearrange application shortcuts in the Total Commander button bar.
 For **Total Commander x64** on Windows.
 
+![Moving buttons in Total Commander](docs/images/button-movement.gif)
+
 ## Install
 
 1. Download `TcBarMove-1.0.0-x64.zip` from [Releases](https://github.com/numbereleven-a/Totalcommander_Bar-Moving-icons/releases/latest).
